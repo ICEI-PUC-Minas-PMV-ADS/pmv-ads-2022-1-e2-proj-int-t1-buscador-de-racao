@@ -1,18 +1,9 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Em geral, quanto maior é o número de opções, mais difícil é a escolha. Ainda mais quando o assunto é algo tão importante quanto a alimentação dos pets. É por isso, que optar entre os diversos tipos de ração as vezes é bem complicado. Diante disso torna-se fundamental que exista uma solução que ajude os donos dos pets a escolher a melhor opção de compra de acordo com o seu animalzinho. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Conforme exposto, o problema que se busca resolver com este projeto é a indecisão, ou até mesmo a ignorância, por parte dos donos ao tentar escolher a ração que melhor combina com o seu pet, pois uma má escolha poderá acarretar em diversas consequências, como por exemplo, indigestão, vômitos, gases, dores abdominais, diarreias, entre outras consequências. 
 
 ## Objetivos
 
