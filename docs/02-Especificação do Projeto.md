@@ -35,7 +35,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO...          | QUERO/PRECISO                       |MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Amanda Ribeiro   | Encontrar uma boa alimentação para o meu novo membro da família e que seja boa mas tenha um preço bom.           | Para dar uma melhor qualidade de vida, já que ele foi adotado e estava sob maus tratos.               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 
