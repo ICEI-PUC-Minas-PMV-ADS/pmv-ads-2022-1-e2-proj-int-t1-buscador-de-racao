@@ -6,7 +6,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-| <img src="img/amanda_dog.jpg" width="350" height="250" alt="Persona Amanda">     | **Amanda**                                                        | | 
+| <img src="img/amanda dog.jpg" width="350" height="250" alt="Persona Amanda">     | **Amanda**                                                        | | 
 |------|----------------------------------------------------------------------------------------------|------------|
 |* Ocupação: proprietário de uma pequena papelaria no seu bairro.       | * Idade: 27                        | * Aplicativos: WhatsApp, Instagram, Facebook | 
 |  * Motivações: Crescer na carreira, Ter uma casa grande | * Frustrações: Medo de perder o emprego   | * Hobbies: Ir ao parque com seu cão,  Assistir filmes, séries.      |
