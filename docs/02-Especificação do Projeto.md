@@ -6,21 +6,43 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-## Personas
+| <img src="img/amanda_dog.jpg" width="350" height="250" alt="Persona Amanda">     | **Amanda**                                                        | | 
+|------|----------------------------------------------------------------------------------------------|------------|
+|* Ocupação: proprietário de uma pequena papelaria no seu bairro.       | * Idade: 27                        | * Aplicativos: WhatsApp, Instagram, Facebook | 
+|  * Motivações: Crescer na carreira, Ter uma casa grande | * Frustrações: Medo de perder o emprego   | * Hobbies: Ir ao parque com seu cão,  Assistir filmes, séries.      |
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+| <img src="img/Geraldo_dog.jpg" width="350" height="250" alt="Persona Juliana">     | **JULIANA**                                                                                 |   |          
+|------|----------------------------------------------------------------------------------------------|------------|
+| * Ocupação: proprietária de uma loja de roupas infantil.       | * Idade: 50                     | * Aplicativos: WhatsApp, Facebook, Instagram| 
+|  * Motivações: Inovar e crescer no ramo da moda infantil  | * Frustrações: Medo de perder mercado para as grandes redes e lojas de roupa.  | * Hobbies: Culinária, academia e passeios 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| <img src="img/brad_luccas.jpg" width="530" height="250" alt="Persona Diego">      | **DIEGO**                                                                                |     |        
+|------|----------------------------------------------------------------------------------------------|------------|
+| * Ocupação: proprietário de um Pet Shop      | * Idade: 25                             | * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube| 
+| * Motivações: Crescer e expandir sua loja no mercado pet.   | * Frustrações: Perder mercado para grandes redes de Pet Shop como, Petz, Cobasi entre outras. | * Hobbies: Esportes, Viagens, Filmes e vídeos de diversos conteúdo. 
+
+| <img src="img/mariana_dog.jpg" width="270" height="250" alt="Persona Luiza">      | **LUIZA**                                                                         |         |            
+|------|----------------------------------------------------------------------------------------------|------------|
+| * Ocupação: Trabalha em uma empresa de vendas de artigos de madeira ornamentais.  | * Idade: 27    * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube, Pinterest | 
+| * Motivações: Almejar uma ascensão de vendas nos segmentos de design, arquitetura, workshops que seguem as mesmas linhas de raciocínio.   | * Frustrações: Não conseguir alcançar uma quantidade de clientes necessários e, por conseguinte não estar de acordo com as metas de caráter financeiro e obrigatórios da empresa.   | * Hobbies: Leitura, viagens, exposições culturais e artísticas. 
+
+
+## Histórias de Usuários
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`         |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|--------------------------------------------|----------------------------------------|
+|João Pedro          | Ingressar minha loja nas redes sociais;        | Obter mais clientes, que foram perdidos com a chegada das lojas digitais. |
+|                    | Conseguir realizar postagens sobre produtos de maneira personalizada;   |           |
+|                    | Quer orientação para usar a plataforma;    |                                        |
+|Juliana             | Verificar o engajamento de suas publicações nas suas redes sociais de uma forma simples| Conectar clientes e conseguir crescer no ramo da moda infantil|
+|Diego               | Um local único que integre todas as redes socias; | Ampliar seus canais de vendas e divulgação dos serviços e produtos em busca de crescimento da empresa nas redes sociais.       |
+|                    | Ter um calendário de publicações;          |     |
+|Luiza               | Alavancar sua identidade visual;           | Aumentar a receita via canais digitais e pontecializar seu marketing. |
+|                    | Escalabilidade das suas redes sociais atingindo um grande número de clientes;      |          |
+|                    | Aumentar o seu ramo de atividades.         |                                        |
+
+
 
 ## Histórias de Usuários
 
