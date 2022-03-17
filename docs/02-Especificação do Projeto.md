@@ -2,9 +2,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+## Personas
+ 
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem. 
 
 | <img src="img/amanda dog.jpg" width="250" height="250" alt="Persona Amanda">     | **AMANDA**                                                        | | 
 |------|----------------------------------------------------------------------------------------------|------------|
@@ -26,6 +26,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |------|----------------------------------------------------------------------------------------------|------------|
 | * Ocupação: Estudante de Direito.  | * Idade: 19    * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube, TikTok | 
 | * Motivações: Crescer na carreira, Constituir uma fámilia, terminar os estudos, ter varios pets.   | * Frustrações: Indecisão na carreira que quer seguir.   | * Hobbies:sair com o namorado, Viajar e Assistir Filmes. 
+
+| <img src="img/AnaPaula" width="250" height="250" alt="Persona Mariana">      | **ANA PAULA**                                                                         |         |            
+|------|----------------------------------------------------------------------------------------------|------------|
+| * Ocupação:  Professora Português de Ensino Fundamental.   | * Idade: 52    * Aplicativos: Facebook, Whatsapp, Isntagram, Canvas | 
+| * Motivações: Dar uma boa condição de vida para seu filho.   | * Frustrações: Cuidar do seu filho sozinha, sem a presença do Pai, que é separado.    | * Hobbies:Viajar, Ir ao Shopping 
 
 
 
