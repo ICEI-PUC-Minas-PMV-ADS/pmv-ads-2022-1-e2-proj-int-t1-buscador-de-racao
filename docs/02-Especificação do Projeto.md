@@ -22,25 +22,10 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 | * Ocupação: Engenheiro de produção, funcionário de uma multinacional do setor da indústria automotiva.      | * Idade:35                             | * Aplicativos: Instagram, Linkedin, Aplicativos de Relacionamento| 
 | * Motivações: Crescer na carreira, construir uma família   | * Frustrações: Falta de equilibrio entre a vida e o trabalho, construir um relacionamento duradouro. | * Hobbies: Sair com os amigos, passear com seu cão Brad
 
-| <img src="img/mariana dog.jpg" width="250" height="250" alt="Persona Luiza">      | **MARIANA**                                                                         |         |            
+| <img src="img/mariana dog.jpg" width="250" height="250" alt="Persona Mariana">      | **MARIANA**                                                                         |         |            
 |------|----------------------------------------------------------------------------------------------|------------|
-| * Ocupação: Trabalha em uma empresa de vendas de artigos de madeira ornamentais.  | * Idade: 27    * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube, Pinterest | 
-| * Motivações: Almejar uma ascensão de vendas nos segmentos de design, arquitetura, workshops que seguem as mesmas linhas de raciocínio.   | * Frustrações: Não conseguir alcançar uma quantidade de clientes necessários e, por conseguinte não estar de acordo com as metas de caráter financeiro e obrigatórios da empresa.   | * Hobbies: Leitura, viagens, exposições culturais e artísticas. 
-
-
-## Histórias de Usuários
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`         |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|--------------------------------------------|----------------------------------------|
-|João Pedro          | Ingressar minha loja nas redes sociais;        | Obter mais clientes, que foram perdidos com a chegada das lojas digitais. |
-|                    | Conseguir realizar postagens sobre produtos de maneira personalizada;   |           |
-|                    | Quer orientação para usar a plataforma;    |                                        |
-|Juliana             | Verificar o engajamento de suas publicações nas suas redes sociais de uma forma simples| Conectar clientes e conseguir crescer no ramo da moda infantil|
-|Diego               | Um local único que integre todas as redes socias; | Ampliar seus canais de vendas e divulgação dos serviços e produtos em busca de crescimento da empresa nas redes sociais.       |
-|                    | Ter um calendário de publicações;          |     |
-|Luiza               | Alavancar sua identidade visual;           | Aumentar a receita via canais digitais e pontecializar seu marketing. |
-|                    | Escalabilidade das suas redes sociais atingindo um grande número de clientes;      |          |
-|                    | Aumentar o seu ramo de atividades.         |                                        |
+| * Ocupação: Estudante de Direito.  | * Idade: 19    * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube, TikTok | 
+| * Motivações: Crescer na carreira, Constituir uma fámilia, terminar os estudos, ter varios pets.   | * Frustrações: Indecisão na carreira que quer seguir.   | * Hobbies:sair com o namorado, Viajar e Assistir Filmes. 
 
 
 
@@ -48,19 +33,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO...          | QUERO/PRECISO                       |MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
