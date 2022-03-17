@@ -33,10 +33,13 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO...          | QUERO/PRECISO                       |MOTIVO/VALOR`                 |
+|EU COMO...          | QUERO/PRECISO                       |MOTIVO/VALOR                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Amanda Ribeiro   | Encontrar uma boa alimentação para o meu novo membro da família e que seja boa mas tenha um preço bom.           | Para dar uma melhor qualidade de vida, já que ele foi adotado e estava sob maus tratos.               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Amanda    | Encontrar uma boa alimentação para o meu novo membro da família e que seja boa mas tenha um preço bom.           | Para dar uma melhor qualidade de vida, já que ele foi adotado e estava sob maus tratos.               |
+|Geraldo      | Dar a melhor ração que seu novo amigo de estimação merece.                 | Geraldo vive com seu amigo de 4 patas e quer dar a melhor ração para ele.  |
+|Ana Paula      | Ana Paula comprou um filhote e deseja comprar uma ração de extrema qualidade. .                 | Para dar saúde, longevidade e um bom crescimento para o seu novo filhote.   |
+|Lucas      | Lucas tem um cão da Raça Golden, atualmente um tipo de ração, mas gostaria de trocar por uma com o custo/benefício melhor.                | Devido ao aumento de todos os produtos e serviços, ele quer economizar na alimentação do seu pet, mas sem perder a qualidade.   |
+|Mariana       |     Trocar a ração do Seu Pet.             | Mariana percebeu que as fezes do seu cão estavam moles e resolveu trocar a ração do seu cão e está na dúvida de qual é a melhor para ele.   |
 
 
 ## Requisitos
