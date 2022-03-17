@@ -6,23 +6,23 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-| <img src="img/amanda dog.jpg" width="350" height="250" alt="Persona Amanda">     | **Amanda**                                                        | | 
+| <img src="img/amanda dog.jpg" width="250" height="250" alt="Persona Amanda">     | **AMANDA**                                                        | | 
 |------|----------------------------------------------------------------------------------------------|------------|
-|* Ocupação: proprietário de uma pequena papelaria no seu bairro.       | * Idade: 27                        | * Aplicativos: WhatsApp, Instagram, Facebook | 
+|* Ocupação: Trabalha como auxiliar de Recursos Humanos em uma empresa de médio porte.  | * Idade: 27                        | * Aplicativos: WhatsApp, Instagram, Facebook | 
 |  * Motivações: Crescer na carreira, Ter uma casa grande | * Frustrações: Medo de perder o emprego   | * Hobbies: Ir ao parque com seu cão,  Assistir filmes, séries.      |
 
-| <img src="img/Geraldo_dog.jpg" width="350" height="250" alt="Persona Juliana">     | **JULIANA**                                                                                 |   |          
+| <img src="img/Geraldo dog.jpg" width="250" height="250" alt="Persona Geraldo">     | **GERALDO**                                                                                 |   |          
 |------|----------------------------------------------------------------------------------------------|------------|
-| * Ocupação: proprietária de uma loja de roupas infantil.       | * Idade: 50                     | * Aplicativos: WhatsApp, Facebook, Instagram| 
-|  * Motivações: Inovar e crescer no ramo da moda infantil  | * Frustrações: Medo de perder mercado para as grandes redes e lojas de roupa.  | * Hobbies: Culinária, academia e passeios 
+| * Ocupação: Aposentado.       | * Idade: 69                     | * Aplicativos: WhatsApp, Aplicativos de Banco| 
+|  * Motivações: Qualidade de vida  | * Frustrações: Se sente muito sozinho, saudade dos filhos.  | * Hobbies: Pescaria, visitar os filhos.
 
 
-| <img src="img/brad_luccas.jpg" width="530" height="250" alt="Persona Diego">      | **DIEGO**                                                                                |     |        
+| <img src="img/brad_luccas.jpg" width="250" height="250" alt="Persona Lucas">      | **LUCAS**                                                                                |     |        
 |------|----------------------------------------------------------------------------------------------|------------|
-| * Ocupação: proprietário de um Pet Shop      | * Idade: 25                             | * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube| 
-| * Motivações: Crescer e expandir sua loja no mercado pet.   | * Frustrações: Perder mercado para grandes redes de Pet Shop como, Petz, Cobasi entre outras. | * Hobbies: Esportes, Viagens, Filmes e vídeos de diversos conteúdo. 
+| * Ocupação: Engenheiro de produção, funcionário de uma multinacional do setor da indústria automotiva.      | * Idade:35                             | * Aplicativos: Instagram, Linkedin, Aplicativos de Relacionamento| 
+| * Motivações: Crescer na carreira, construir uma família   | * Frustrações: Falta de equilibrio entre a vida e o trabalho, construir um relacionamento duradouro. | * Hobbies: Sair com os amigos, passear com seu cão Brad
 
-| <img src="img/mariana_dog.jpg" width="270" height="250" alt="Persona Luiza">      | **LUIZA**                                                                         |         |            
+| <img src="img/mariana dog.jpg" width="250" height="250" alt="Persona Luiza">      | **MARIANA**                                                                         |         |            
 |------|----------------------------------------------------------------------------------------------|------------|
 | * Ocupação: Trabalha em uma empresa de vendas de artigos de madeira ornamentais.  | * Idade: 27    * Aplicativos: WhatsApp, Facebook, Instagram, Twitter, Youtube, Pinterest | 
 | * Motivações: Almejar uma ascensão de vendas nos segmentos de design, arquitetura, workshops que seguem as mesmas linhas de raciocínio.   | * Frustrações: Não conseguir alcançar uma quantidade de clientes necessários e, por conseguinte não estar de acordo com as metas de caráter financeiro e obrigatórios da empresa.   | * Hobbies: Leitura, viagens, exposições culturais e artísticas. 
