@@ -11,7 +11,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |* Ocupação: Trabalha como auxiliar de Recursos Humanos em uma empresa de médio porte.  | * Idade: 27                        | * Aplicativos: WhatsApp, Instagram, Facebook | 
 |  * Motivações: Crescer na carreira, Ter uma casa grande | * Frustrações: Medo de perder o emprego   | * Hobbies: Ir ao parque com seu cão,  Assistir filmes, séries.      |
 
-| <img src="img/Geraldo dog.jpg" width="250" height="250" alt="Persona Geraldo">     | **GERALDO**                                                                                 |   |          
+| <img src="img/Geraldo dog.jpg" width="350" height="250" alt="Persona Geraldo">     | **GERALDO**                                                                                 |   |          
 |------|----------------------------------------------------------------------------------------------|------------|
 | * Ocupação: Aposentado.       | * Idade: 69                     | * Aplicativos: WhatsApp, Aplicativos de Banco| 
 |  * Motivações: Qualidade de vida  | * Frustrações: Se sente muito sozinho, saudade dos filhos.  | * Hobbies: Pescaria, visitar os filhos.
