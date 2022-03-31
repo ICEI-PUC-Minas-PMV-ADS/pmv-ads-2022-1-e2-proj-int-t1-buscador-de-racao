@@ -19,13 +19,12 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
 
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+<img scr="./img/modelo_er-removebg-preview.png">
 
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
- 
-<img src="./img/esquema_relacional.png">
+
 
 ## Tecnologias Utilizadas
 
